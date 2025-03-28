@@ -25,7 +25,7 @@ O script oferece as seguintes funcionalidades, todas ajustáveis através de var
    Clone o repositório ou baixe o script diretamente:
 
    ```bash
-   git clone https://github.com/Senedev/ubuntu-setup.git
+   git clone https://github.com/Senedev/ubuntu-pos-setup.git
    ```
 
 2. **Dar permissão de execução ao script:**
@@ -33,19 +33,19 @@ O script oferece as seguintes funcionalidades, todas ajustáveis através de var
    Navegue até o diretório onde o script está localizado e use o seguinte comando:
 
    ```bash
-   chmod +x ubuntu-setup.sh
+   chmod +x ubuntu-pos-setup.sh
    ```
 
 3. **Editar as opções de configuração (Opcional):**
 
-   Caso queira personalizar as opções de instalação (como pacotes extras ou configurações específicas), edite as variáveis no início do arquivo `ubuntu-setup.sh` conforme necessário.
+   Caso queira personalizar as opções de instalação (como pacotes extras ou configurações específicas), edite as variáveis no início do arquivo `ubuntu-pos-setup.sh` conforme necessário.
 
 4. **Executar o script:**
 
    Execute o script com o seguinte comando:
 
    ```bash
-   sudo ./ubuntu-setup.sh
+   sudo ./ubuntu-pos-setup.sh
    ```
 
 5. **Acompanhar as etapas:**
